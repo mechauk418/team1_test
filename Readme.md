@@ -2,6 +2,31 @@
 
 [기획서](기획.md)
 
+# 프로젝트 요약
+
+![image1](기획.assets/슬라이드0001.jpg)
+![image2](기획.assets/슬라이드0002.jpg)
+![image3](기획.assets/슬라이드0003.jpg)
+![image4](기획.assets/슬라이드0004.jpg)
+![image5](기획.assets/슬라이드0005.jpg)
+![image6](기획.assets/슬라이드0006.jpg)
+![image7](기획.assets/슬라이드0007.jpg)
+![image8](기획.assets/슬라이드0008.jpg)
+![image9](기획.assets/슬라이드0009.jpg)
+![image10](기획.assets/슬라이드0010.jpg)
+![image11](기획.assets/슬라이드0011.jpg)
+![image12](기획.assets/슬라이드0012.jpg)
+![image13](기획.assets/슬라이드0013.jpg)
+![image14](기획.assets/슬라이드0014.jpg)
+![image15](기획.assets/슬라이드0015.jpg)
+![image16](기획.assets/슬라이드0016.jpg)
+![image17](기획.assets/슬라이드0017.jpg)
+![image18](기획.assets/슬라이드0018.jpg)
+![image19](기획.assets/슬라이드0019.jpg)
+![image20](기획.assets/슬라이드0020.jpg)
+
+
+
 ## Contributors
 
 <a href="https://github.com/sunbongE/Team_1/graphs/contributors">
@@ -9,6 +34,7 @@
 </a>
 
 ---
+
 
 ## ✒️ 실습 후기
 
